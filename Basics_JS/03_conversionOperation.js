@@ -33,14 +33,14 @@ console.log(typeof valueInNumber);
 // "33abc" => NaN
 //  true => 1; false => 0
 
-let isLoggedIn = "hitesh"
+let isLoggedIn = "MILLAT"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //  console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
-// "hitesh" => true
+// "MILLAT" => true
 
 let someNumber = 33
 
@@ -62,7 +62,7 @@ let negValue = -value
 // console.log(2%3);
 
 let str1 = "hello"
-let str2 = " hitesh"
+let str2 = " MILLAT"
 
 let str3 = str1 + str2
 // console.log(str3);
@@ -84,3 +84,5 @@ num1 = num2 = num3 = 2 + 2
 let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
+
+// 1:42 am Tuesday, 24 September 2024 (IST)
